@@ -17,7 +17,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-height: 50vh;
+    max-height: 45vh;
     padding: 0 20px;
 }
 #toggle {
@@ -79,26 +79,26 @@ h1 {
 
 @media (min-width: 320px) {
     .services {
-        max-height: 65vh;
+        max-height: 60vh;
     }
 }
 
 @media (min-width: 360px) {
     .services {
-        max-height: 55vh;
+        max-height: 50vh;
         padding: 0 30px;
     }
 }
 
 @media (min-width: 375px) {
     .services {
-        max-height: 65vh;
+        max-height: 60vh;
     }
 }
 
 @media (min-width: 540px) {
     .services {
-        max-height: 85vh;
+        max-height: 80vh;
     }
 }
 
@@ -113,14 +113,14 @@ h1 {
         width: 600px;
     }
     .services {
-        max-height: 95vh;
+        max-height: 90vh;
         margin: 15% 0 0 0;
     }
 }
 
 @media (min-width: 1680px) {
     .services {
-        max-height: 70vh;
+        max-height: 65vh;
         margin: 10% 0 0 0;
     }
 }
